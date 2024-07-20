@@ -40,3 +40,18 @@ section + section {
 #about p + p, #preparation p + p {
   margin-top: 12px;
 }
+
+h1{
+  line-height: 150%;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h1, h2 {
+  color: #291B1A;
+  margin-bottom: 4px;
+  line-height: 150%;
+}
