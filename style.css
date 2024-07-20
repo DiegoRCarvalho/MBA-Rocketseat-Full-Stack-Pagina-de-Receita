@@ -7,3 +7,9 @@
   font-family: "Alice", serif;
   color: #573A37;
 }
+
+body {
+  background-image: url(assets/bg-image.svg);
+  background-size: cover;
+  background-color: #573824df;
+ }
