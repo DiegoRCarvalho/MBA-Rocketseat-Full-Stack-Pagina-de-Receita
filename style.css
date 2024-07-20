@@ -27,3 +27,16 @@ body {
 img {
   border-radius: 16px;
 }
+
+main{
+  padding: 24px;
+}
+
+section + section {
+  margin-top: 24px;
+}
+
+/* Estilizar apenas os parágrafos que estão dentro do about e que possuem um elemento p anterior */
+#about p + p, #preparation p + p {
+  margin-top: 12px;
+}
